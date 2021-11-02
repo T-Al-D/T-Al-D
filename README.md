@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @T-Al-D.
 - 👀 I’m interested in all sorts of Coding (C/C++, Java, SQL, Python....).
-- 🌱 I started coding in 09/2019. I already have tried SQL, Java and C/C++ therefore I’m currently learning Phyton (for my next Mini-Project!).
+- 🌱 I started coding in 09/2019. I already have tried (or experimented with) SQL, Java and C/C++, therefore I’m currently learning Phyton (for my next Mini-Project!).
 - ✨ For the future I want to fill my repository with more "Mini-Projects" as I discover more and more of the amazing and diverse world of Software.
 
 <!---
