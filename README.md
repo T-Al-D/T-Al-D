@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,sqlite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,react,sqlite,vscode)](https://skillicons.dev)
 
 - 👋 Hi, I’m @T-Al-D.
 - 👀 I’m interested in all sorts of Coding (C/C++, Java, SQL, Python....) and sometimes Elektronics (Rasberry, Aduino ...).
