@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-al-d&show_icons=true&locale=en" alt="t-al-d" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-al-d&" alt="t-al-d" /></p>
+
 
 
 :arrow_right: Original Image from [pixabay](https://pixabay.com/illustrations/futuristic-brain-cyborg-technology-8789975/).
