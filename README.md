@@ -8,7 +8,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-al-d&label=Profile%20views&color=0e75b6&style=flat" alt="t-al-d" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t-al-d" alt="t-al-d" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t-al-d&theme=onestar" alt="t-al-d" /></a> </p>
 
 - 🌱 I’m currently learning: **CSS Animation**
 
