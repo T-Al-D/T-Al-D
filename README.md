@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm T-Al-D</h1>
 <h3 align="center">A passionate, aspiring application developer from Germany.</h3>
 
-- 👀 I’m interested in all sorts of Coding (C#, SQL, Python....) and sometimes Elektronics (Rasberry, Aduino ...).
+- 👀 I’m interested in all sorts of Coding (C#, SQL, Python....) and sometimes Electronics (Rasberry, Aduino, ESP32 ...).
 - 🌱 I've tried (or experimented with) a few programming languages, professionally I use Python the most.
 - :blue_book: Currently I´m in an apprenticeship to become an IT-Specialist (application development)
 - ✨ In the future, I would like to fill my repository with more “mini-projects” as I discover more and more of the amazing and diverse world of software.
